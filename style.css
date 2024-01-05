@@ -1,0 +1,138 @@
+html,
+body{
+    margin: 0;
+    height: 100%;
+}
+
+.header{
+    background-color: #ffffff;
+    padding-bottom: 108px;
+}
+
+.header-nft{
+    display: block;
+    margin: auto;
+    padding-top: 32px;
+    color: #fffcfc;
+}
+
+.header-title{
+    color: #0a0000;
+    font-family: 'Cormorant Garamond';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: normal;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+.section-cake{
+    background-color: #ffffff;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+.section-subtitle{
+    font-family: "Cormorant Garamond";
+    font-weight: 600;
+    font-size: 56px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #eb300f;
+    text-align: center;
+}
+
+.price{
+    color:  #0dc23a;
+    font-family: "Cormorant Garamond";
+    font-size: 54px;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center ;
+}
+
+.pos{
+    display: flex; 
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.title{
+    color:  #000;
+    font-family: Cormorant Garamond;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.section-form{
+    background-color: #ffffff;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+.form-text{
+    color:  #FFF;
+text-align: center;
+font-family: "Cormorant Garamond";
+font-size: 24px;
+font-weight: 600;
+line-height: normal;
+width: 614px;
+margin: auto;
+margin-top: 60px;
+margin-bottom: 40px;
+}
+
+.label{
+   color: #a51010;
+   text-align: center;
+   font-family: 'Cormorant Garamond';
+   font-size: 16px;
+   font-weight: 400;
+   line-height: normal;
+   text-transform: uppercase;
+   margin-top: 0;
+   margin-bottom: 8px;
+}
+
+.input{
+    width: 440px;
+    height: 48px;
+    border: 1px solid #d30e0e;
+    background-color: #fafafc;
+    border-radius: 12px;
+    margin: auto;
+    margin-bottom: 24px;
+}
+
+.form-btn{
+    color: #FFF;
+    font-family: "Cormorant Garamond";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 175px;
+    height: 51px;
+    border-radius: 50px;
+    background-color: #c48a49;
+    border: none;
+    margin: auto;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.im{
+    display: block;
+    width: 400px;
+}
